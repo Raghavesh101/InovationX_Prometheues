@@ -4,7 +4,7 @@
 **Meet the Team!** 
 
 * Aarya Ashok K. (Team Leader)
-* Tejasv Goyal (Team Member)
+* Tejasv Goyal (Team Member) 
 * Aman Jain (Team Member)
 * Raghavesh M (Team Member)
 
